@@ -27,3 +27,6 @@ It's important to note that:
 - initialization, condition, and finalExpression are optional in for loops
 
 - The head of a for loop typically looks like for (var i = 0; i < maxValue; i++), where  is the maximum value you wish to iterate until.
+
+# If Else Statements
+- similar to Ruby with `&&`, `||`, greater than and less than
